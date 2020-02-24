@@ -8,6 +8,8 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "@testing-library/jest-dom": "^5.1.1",
+    "@testing-library/react": "^9.4.1",
     "axios": "0.19.2",
     "html-react-parser": "0.10.1",
     "react": "16.12.0",
